@@ -1,4 +1,4 @@
-package Strings.Wordcount;
+package Wordcount;
 
 public class Findoutcount {
 
